@@ -1,0 +1,4 @@
+# Ignore environment folders everywhere
+**/.venv/
+**/env/
+**/.env/
